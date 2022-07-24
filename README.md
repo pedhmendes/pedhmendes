@@ -1,4 +1,4 @@
-
+Potts Model           |  Lattice Gas
 :-------------------------:|:-------------------------:
 ![](https://github.com/pedhmendes/useful-things/blob/main/figs/Q10_T025_HB.gif)  |  ![](https://github.com/pedhmendes/useful-things/blob/main/figs/lattice_gas.gif)
 
