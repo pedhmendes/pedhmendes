@@ -1,6 +1,6 @@
-!(potts_q10_hb)[https://github.com/pedhmendes/useful-things/blob/main/figs/Q10_T025_HB.gif]
+![](https://github.com/pedhmendes/useful-things/blob/main/figs/Q10_T025_HB.gif)
 
-!(lattice_gas)[https://github.com/pedhmendes/useful-things/blob/main/figs/lattice_gas.gif]
+![](https://github.com/pedhmendes/useful-things/blob/main/figs/lattice_gas.gif)
 
 
 <!--
