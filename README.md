@@ -1,6 +1,9 @@
-### Hi there 👋
+!()[https://github.com/pedhmendes/useful-things/blob/main/figs/Q10_T025_HB.gif]
+!()[https://github.com/pedhmendes/useful-things/blob/main/figs/lattice_gas.gif]
+
 
 <!--
+### Hi there 👋
 **pedhmendes/pedhmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
