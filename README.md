@@ -1,6 +1,6 @@
-Potts Model           |  Lattice Gas
-:-------------------------:|:-------------------------:
-![](https://github.com/pedhmendes/useful-things/blob/main/figs/Q10_T025_HB.gif)  |  ![](https://github.com/pedhmendes/useful-things/blob/main/figs/lattice_gas.gif)
+Potts Model           |  Lattice Gas | SIR Dynamics | Prisoner's Dilemma
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/pedhmendes/useful-things/blob/main/figs/Q10_T025_HB.gif)  |  ![](https://github.com/pedhmendes/useful-things/blob/main/figs/lattice_gas.gif) |![](https://github.com/pedhmendes/useful-things/blob/main/figs/sir_dynamics_rw.gif) | ![](https://github.com/pedhmendes/useful-things/blob/main/figs/fcond_10e6.gif)
 
 ### Intro 👋
 Hello, my name is Pedro Henrique Mendes. 
