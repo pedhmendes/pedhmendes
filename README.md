@@ -1,4 +1,4 @@
-Lattice Gas | Potts Model | SIR Dynamics 
+Lattice Gas | Potts Model | Prisonner's Dilemma 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/pedhmendes/useful-things/blob/main/figs/lattice_gas.gif) |![](https://github.com/pedhmendes/useful-things/blob/main/figs/Q10_T025_HB.gif) | ![](https://github.com/pedhmendes/useful-things/blob/main/figs/fcond_10e6.gif)
 
