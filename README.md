@@ -4,7 +4,7 @@ Lattice Gas | Potts Model | Prisonner's Dilemma
 
 ### Intro 👋
 Hello, my name is Pedro Henrique Mendes. 
-I'm a physics master student at UFRGS - Brazil.
+I'm a master student at IF-UFRGS - Brazil.
 My interest topics are: (_i_) Simulations of statistical physics models, such as Ising and Potts, and (_ii_) physics-driven machine learning.
 
 
