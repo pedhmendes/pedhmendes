@@ -14,7 +14,7 @@ Do not hesitate in contact me if you find anything wrong or that is not working.
 ### Info 💬
 You can reach me throught email: [pedhmendes@gmail.com](mailto:pedhmendes@gmail.com).
 
-My cv can be found [here](https://drive.google.com/file/d/1eBzAitWwbb5uziqHitLMYRg_wI4yxji6/view?usp=sharing).
+My cv can be found [here](https://drive.google.com/file/d/1dV39Lis-GBZEuzd-Cw0ROtlZevr_tRZi/view?usp=sharing).
 
 My LinkedIn [here](https://www.linkedin.com/in/pedhmendes/).
 
