@@ -18,6 +18,8 @@ My cv can be found [here](https://drive.google.com/file/d/17DkkfRAd9X5AoIJNFq8uv
 
 My LinkedIn [here](https://www.linkedin.com/in/pedhmendes/).
 
+My Lattes CV [here](http://lattes.cnpq.br/0484151055453476)
+
 <!--
 ### Hi there 👋
 **pedhmendes/pedhmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
